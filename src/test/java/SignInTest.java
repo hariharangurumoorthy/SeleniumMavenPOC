@@ -3,7 +3,7 @@ import com.pages.HomePage;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class HomeTest extends BaseTest {
+public class SignInTest extends BaseTest {
 
     private HomePage homePage;
 
